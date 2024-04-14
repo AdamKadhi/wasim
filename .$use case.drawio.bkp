@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-02-28T08:49:00.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OOX8F8mlqj6X3nMsHkwD" version="23.1.5" type="device">
+  <diagram name="Page-1" id="PoCq6ONa07NzLXSCt53S">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-3" value="locataire&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="6cQtI8f6F2JXkm5LAepP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.5" y="210" as="sourcePoint" />
+            <mxPoint x="84.5" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-8" value="utilisateur&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-9" value="propriétaire&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.5" y="210" as="sourcePoint" />
+            <mxPoint x="85" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="55" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="6cQtI8f6F2JXkm5LAepP-17" target="6cQtI8f6F2JXkm5LAepP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-17" value="voir les appartement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-20" value="s&#39;identifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-23" value="include" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cQtI8f6F2JXkm5LAepP-29" target="6cQtI8f6F2JXkm5LAepP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="230" />
+              <mxPoint x="470" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cQtI8f6F2JXkm5LAepP-29" value="poster appartement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

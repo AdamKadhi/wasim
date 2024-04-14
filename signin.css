@@ -1,0 +1,61 @@
+#btn1 {
+    height: 50px;
+    line-height: 50px;
+    padding: 0 70px;
+    background: #9c201f;
+    color: #fff;
+    font-size: 13px;
+    display: inline-block;
+    border-radius: 15px;
+    text-decoration: none !important;
+    transition: .5s;
+    font-weight: 400;
+    
+}
+input[type="text"]#mdps{
+    
+        font-size: 13px;
+        font-weight: 300;
+        color: #555;
+        width: 40%;
+        padding: 0 18px;
+        height: 57px;
+        line-height: 57px;
+        background: #f2ece3;
+        display: block;
+        margin-bottom: 13px;
+        border-radius: 15px;
+        border: 1px solid transparent;
+        transition: .5s;
+    
+}
+#ville{
+    width:45%;
+}
+
+form {
+    background-color: #ffffffb8;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.396);
+    
+  }
+  
+h1{
+    font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+body, html {
+    margin: 50px;
+    padding: 0;
+    
+
+   
+    
+  }
+  
+

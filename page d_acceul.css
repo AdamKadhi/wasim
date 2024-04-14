@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+}
+.nav_parent{
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: #F2ECE3;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 2px 2px 2px gray;
+}
+.header-logo img{
+    width: 90px;
+    height: 90px;
+}
+.header-logo {
+    width: 40%;
+}
+.nav_parent nav{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.nav_parent nav a{
+    text-decoration: none;
+    color: #730000;
+    font-size: large;
+}
